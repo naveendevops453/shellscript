@@ -17,7 +17,7 @@ inputs_function 123 abc
 
 demo(){
   echo Hello
-  return 0
+  return 10
   echo bye
 }
 demo
