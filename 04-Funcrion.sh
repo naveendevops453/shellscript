@@ -14,3 +14,10 @@ print_hello
 echo y from function - $y
 
 inputs_function 123 abc
+
+demo(){
+  echo Hello
+  return 0
+  echo bye
+}
+demo
