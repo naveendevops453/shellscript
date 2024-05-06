@@ -30,3 +30,4 @@ LS=$(ls)
 echo $LS
 #Arithametic Substitution
 ADD=$((3+4))
+echo $ADD
