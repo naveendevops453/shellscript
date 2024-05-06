@@ -21,3 +21,4 @@ demo(){
   echo bye
 }
 demo
+echo return status of function : $?
