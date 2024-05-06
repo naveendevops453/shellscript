@@ -23,3 +23,10 @@ echo First Argument - $1
 echo Second Argument - $2
 echo All Arguments - $*
 echo No. of Arguments - $#
+
+#Command Substitution
+LS=$(ls)
+
+echo $LS
+#Arithametic Substitution
+ADD=$((3+4))
