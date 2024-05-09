@@ -13,3 +13,4 @@ elif [[ $marks -ge 60 ]] && [[ $marks -le 74 ]]; then
 else
   echo Failed
 fi
+# Always prefer to use double quotes in conditions
